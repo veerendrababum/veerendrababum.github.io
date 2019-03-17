@@ -4,11 +4,11 @@ permalink: /about/
 ---
 **Payment Data Analyst** 
 
-<p style="text-align: justify;">Having 3 years of experience in IT industry as domain expert in payment transactions and underlying technologies by keeping fully updated with the latest trends and developments in the payment industry. IBM Certified Data Scientist with a demonstrated ability to deliver valuable insights via data analytics and advanced data-driven methods.</p>
+<p style="text-align: justify;font-family: none;">Having 3 years of experience in IT industry as domain expert in payment transactions and underlying technologies by keeping fully updated with the latest trends and developments in the payment industry. IBM Certified Data Scientist with a demonstrated ability to deliver valuable insights via data analytics and advanced data-driven methods.</p>
 
 **Expertise**
 
-Data Analysis, Machine Learning Algorithms, Predictive Modeling, Data Queries and Interpretation, Python, R , SQL, Transaction Processing, ISO & PCI standards, NFC & EMV, Tokenization, Card management and authorization, Research , Reports and Forecasts.
+<p style="text-align: justify;font-family: none;">Data Analysis, Machine Learning Algorithms, Predictive Modeling, Data Queries and Interpretation, Python, R , SQL, Transaction Processing, ISO & PCI standards, NFC & EMV, Tokenization, Card management and authorization, Research , Reports and Forecasts.
 
 **Certifications**
 
