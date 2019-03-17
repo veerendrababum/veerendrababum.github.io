@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Above"
-    url: /above/
+  - title: "About"
+    url: /about/
   - title: "projects"
     url: /projects/
   # - title: "About"
