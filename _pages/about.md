@@ -8,7 +8,7 @@ permalink: /about/
 
 **Expertise**
 
-<p style="text-align: justify;font-family: none;">Data Analysis, Machine Learning Algorithms, Predictive Modeling, Data Queries and Interpretation, Python, R , SQL, Transaction Processing, ISO & PCI standards, NFC & EMV, Tokenization, Card management and authorization, Research , Reports and Forecasts.</p>
+<p style="text-align: justify;font-family: none;">Data Analysis, Machine Learning Algorithms, Predictive Modeling, Data Queries and Interpretation, Python, R, SQL, Transaction Processing, ISO & PCI standards, NFC & EMV, Tokenization, Card management and authorization, Research , Reports and Forecasts.</p>
 
 **Certifications**
 
