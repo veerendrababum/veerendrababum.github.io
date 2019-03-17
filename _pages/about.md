@@ -1,7 +1,6 @@
 ---
 permalink: /about/
-header: 
-  image: "/images/about-me.jpg"
+
 ---
 # H1 Payment Data Analyst
 
