@@ -108,16 +108,16 @@ analytics:
 author:
   name             : "Veerendra Babu M"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Payment Analyst/ Data Scinece Portfolio"
+  bio              : "Data Science Portfolio"
   location         : "Atlanta"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: mailto:veeranaiducse037@gmail.com
+    - label: "linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
