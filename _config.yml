@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:veeranaiducse037@gmail.com
     - label: "linkedin"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/veerendra-babu-m-1b2b16152/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
