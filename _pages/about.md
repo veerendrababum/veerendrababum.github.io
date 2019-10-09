@@ -4,9 +4,7 @@ author_profile: true
 header: 
   image: "/images/about-me.jpg"
 ---
-**Payment Data Analyst** 
-
-<p style="text-align: justify;font-family: none;">Having 3 years of experience in IT industry as domain expert in payment transactions and underlying technologies by keeping fully updated with the latest trends and developments in the payment industry. IBM Certified Data Scientist with a demonstrated ability to deliver valuable insights via data analytics and advanced data-driven methods.</p>
+<p style="text-align: justify;font-family: none;">Veerendra is a Senior Payment Analyst having 4 years of experience in IT industry as domain expert in payment transactions and underlying technologies by keeping fully updated with the latest trends and developments in the payment industry. IBM Certified Data Scientist with a demonstrated ability to deliver valuable insights via data analytics and advanced data-driven methods.</p>
 
 **Expertise**
 
