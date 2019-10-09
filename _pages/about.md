@@ -1,6 +1,8 @@
 ---
 permalink: /about/
-
+author_profile: true
+header: 
+  image: "/images/about-me.jpg"
 ---
 **Payment Data Analyst** 
 
