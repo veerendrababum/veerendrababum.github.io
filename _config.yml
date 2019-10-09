@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Veerendra Babu M | Payment Data Analyst"
+title                    : "Veerendra Babu M | Senior Payment Analyst"
 title_separator          : "-"
 name                     : "Veerendra Babu M"
-description              : "Data Science Portfolio"
+description              : "Senior Payment Analyst"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Veerendra Babu M"
   avatar           : "/images/bio.jpg" 
-  bio              : "Data Science Portfolio"
+  bio              : "Senior Payment Analyst"
   location         : "Atlanta"
   email            :
   links:
