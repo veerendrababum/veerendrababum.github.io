@@ -1,5 +1,5 @@
 ---
-layout: archive
+
 permalink: /datapreparation/
 author_profile: true
 
