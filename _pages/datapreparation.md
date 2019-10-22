@@ -1,11 +1,8 @@
 ---
-
+title:"Data Preparation"
 permalink: /datapreparation/
 author_profile: true
-
 ---
-# Data Preparation
-
 ## Overview
 
 <p style="text-align: justify;font-family: none;">This section describes clearing and processing of the data collected for testing a hypothesis whether university towns have their housing prices less effected by recessions.</p>
