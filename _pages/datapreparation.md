@@ -8,15 +8,7 @@ author_profile: true
 
 <p style="text-align: justify;font-family: none;">This section describes clearing and processing of the data collected for testing a hypothesis whether university towns have their housing prices less effected by recessions.</p>
 
-<p style="text-align: justify;font-family: none;">Data acquisition is described in the previous section.</p>
-
-<p style="text-align: justify;font-family: none;">Analysis of the data is described in the next section.</p>
-
-<p style="text-align: justify;font-family: none;">This project is based on assignments from Introduction to Data Science in Python by University of Michigan on Coursera</p>
-
-<p style="text-align: justify;font-family: none;">The analysis for this project was performed in Python.</p>
-
-<p style="text-align: justify;font-family: none;">Cleaning and Processing of the University Town Data</p>
+## Cleaning and Processing of the University Town Data
 
 <p style="text-align: justify;font-family: none;">The list of university towns includes entries of both university towns and states in which these towns are located in a single column. State names should be removed from that column and then added as the second column to a data frame with two columns corresponding to university towns and states they are in. The format of the DataFrame is: DataFrame( [ [“Michigan”, “Ann Arbor”], [“Michigan”, “Yipsilanti”] ], columns=[“State”, “RegionName”] )</p>
 
@@ -81,3 +73,5 @@ def convert_housing_data_to_quarters():
     return v
 convert_housing_data_to_quarters()
 ```
+
+Next step: [Analysis](/Analysis/)
