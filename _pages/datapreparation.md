@@ -3,7 +3,6 @@ title: "Data Preparation"
 permalink: /datapreparation/
 author_profile: true
 ---
-
 ## Overview
 
 <p style="text-align: justify;font-family: none;">This section describes clearing and processing of the data collected for testing a hypothesis whether university towns have their housing prices less effected by recessions.</p>
@@ -20,9 +19,9 @@ author_profile: true
 <p style="text-align: justify;font-family: none;">The following function performs the transformation described above, and then uses regular expressions to identify and remove the redundant text patterns.</p>
 
 ```
-def get_list_of_university_towns():
-        
-    #Create two columns corresponding to university towns and states they are in 
+def get_list_of_university_towns():        
+    
+	#Create two columns corresponding to university towns and states they are in 
     #and remove redundant data
     university_towns = get_university_data()
     university_towns['State']= university_towns[university_towns["RegionName"].str.contains('edit')]
@@ -33,14 +32,11 @@ def get_list_of_university_towns():
     df1 = university_towns[university_towns.RegionName.str.contains('edit')].index
     university_towns = university_towns.drop(df1).reset_index(drop = True)
     return university_towns
-
+	
 get_list_of_university_towns().head() 
-
 ```  
-
-
 <p style="text-align: justify;font-family: none;">The first five rows of the resulting data frame are as follows:</p>
-
+<img src="{{site.url}}{{site.baseurl}}/images/cleaned_unv_data.PNG" alt="l">
 
 ## Processing of the GDP Data
 
@@ -51,7 +47,6 @@ get_list_of_university_towns().head()
 ## Processing of the Housing Data
 
 <p style="text-align: justify;font-family: none;">Finally, the monthly housing price data needs to be converted to quarters before it is analyzed along with quarterly GDP figures. The following function averages the monthly prices within each quarter. The resulting data frame has columns for 2000Q1 through 2016Q3, and a multi-index in the shape of [“State”, “RegionName”]. Then the function below merges housing data with state names using state codes. This step is necessary in order to subsequently merge the housing data with the university town data, which include state names but do not include state codes:</p>
-
 
 ```
 def convert_housing_data_to_quarters():
@@ -71,7 +66,10 @@ def convert_housing_data_to_quarters():
     v.columns = v.columns.droplevel()
     del v.columns.name
     return v
+	
 convert_housing_data_to_quarters()
 ```
+<p style="text-align: justify;font-family: none;">The first five rows of the resulting data frame are as follows:</p>
+<img src="{{site.url}}{{site.baseurl}}/images/final_clean_data.PNG" alt="l">
 
 Next step: [Analysis](/Analysis/)
