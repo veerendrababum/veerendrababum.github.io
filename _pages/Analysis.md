@@ -6,7 +6,7 @@ author_profile: true
 ## Overview
 
 <p style="text-align: justify;font-family: none;">This section tests a hypothesis whether university towns have their housing prices less effected by recessions, using a t-test. The test compares the ratio of the mean housing price in the quarter of the recession bottom to the quarter before the recession starts between university and non-university towns. (price_ratio = recession_bottom / quarter_before_recession).</p>
-<p style="text-align: justify;font-family: none;">Data cleaning and processing are described in the previous section.</p>
+<p style="text-align: justify;font-family: none;">Data cleaning and processing are described in the <a href="https://veerendrababum.github.io/datapreparation/">previous section</a>.</p>
 <p style="text-align: justify;font-family: none;">This project is based on assignments from Introduction to Data Science in Python by University of Michigan on Coursera</p>
 <p style="text-align: justify;font-family: none;">The analysis for this project was performed in Python.</p>
 
