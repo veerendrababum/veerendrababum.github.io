@@ -1,12 +1,9 @@
 ---
-title: "Analysis of infographic"
+title: "Analysis of an Infographic using Alberto Cairo's principles"
 date: 2019-10-22
 tags: [projects, Data Cleaning, Data Analysis]
 excerpt: "Projects, Data Analysis, Data Science"
 ---
-
-## Analysis of an Infographic using Alberto Cairo's principles
-
 <p style="text-align: justify;font-family: none;">Alberto Cairo’s work entitled “Reflections on the Challenges and Pitfalls of Evidence-Driven Visual Communication” presents three ways graphics can mislead the reader:</p>
 <p style="text-align: justify;font-family: none;">•	Hiding relevant data to highlight what benefits us: “cherry-picked” statistics, e.g. show the average to hide that sales were negative in a certain moment.</p>
 <p style="text-align: justify;font-family: none;">•	Displaying too much data to obscure reality: extreme and unnecessary detail, e.g. showing details that would be better explored with interactive tools, not on a printed page.</p>
