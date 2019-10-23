@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : <i>"Veerendra Babu M"</i>
+title                    : "<i>Veerendra Babu M</i>"
 title_separator          : "-"
 name                     : "Veerendra Babu M"
 description              : "Senior Payment Analyst"
