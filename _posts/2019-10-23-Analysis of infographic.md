@@ -31,3 +31,5 @@ excerpt: "Data Analysis, Data Visualization, Data Science"
 
 ### Using graphic forms in inappropriate ways (Distorting the Data):
 <p style="text-align: justify;font-family: none;">For instance, SHARE OF TOTAL COMPENSATION and TOTAL COMPENSATION are related to each other and sharing the same information. However, the bar color for “Health Insurance” is  colored blue in SHARE OF TOTAL COMPENSATION and but its yellow in TOTAL COMPENSATION. It would be made clearer to the decoder by choosing the same bar color to represent the same element in both SHARE OF TOTAL COMPENSATION and TOTAL COMPENSATION graph.</p>
+### Conclusion
+<p style="text-align: justify;font-family: none;">From my experience, I am supportive of the possibility that photos merit a thousand words. Embellishments have been valuable in my day by day work with business procedures and insights diagrams with incredible outcomes.Connecting back to Cairo's work, my perspective is that the advantages of embellishments will be more powerful if they are accurate to inform their audiences.</p>
