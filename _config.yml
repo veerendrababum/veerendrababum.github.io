@@ -141,7 +141,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/sonu.virendra123"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "https://github.com/veerendrababum"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/veerendrasonu/?hl=en"
 
 
 # Reading Files
