@@ -20,14 +20,14 @@ excerpt: "Data Analysis, Data Visualization, Data Science"
 ### Displaying Too Much Data to Obscure Reality:
 <p style="text-align: justify;font-family: none;">There are eight data visuals presented</p>
 <p style="text-align: justify;font-family: none;">
-1.	Share of total compensation
-2.	Total compensation
-3.	Compensation breakouts
-4.	Total compensation
-5.	Percentage with at least a Bachelor’s degree
-6.	Total expenditures per hour worked
-7.	Comparisons to private sector
-8.	Compensation and college Education
+1.	Share of total compensation<br />
+2.	Total compensation<br />
+3.	Compensation breakouts<br />
+4.	Total compensation<br />
+5.	Percentage with at least a Bachelor’s degree<br />
+6.	Total expenditures per hour worked<br />
+7.	Comparisons to private sector<br />
+8.	Compensation and college Education<br />
 </p>
 <p style="text-align: justify;font-family: none;">Showing these eight data visuals in one infographic is misleading because it can confuse the decoder with unclear links between them. What is the relationship between Compensation And College Education and Share Of Total Compensation? Is the data from the same source? In the Compensation And College Education, there is an element for “Private Sector” but there is no similar figure available in the chart Share Of Total Compensation.</p>
 
