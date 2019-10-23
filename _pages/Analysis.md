@@ -38,8 +38,9 @@ def get_recession_end():
     return recission_end.iloc[0,0]
        
 get_recession_end()
-```
 
+```
+<p style="text-align: justify;font-family: none;">The results show that the recession ended in 2009Q4.</p>
 <p style="text-align: justify;font-family: none;">The next function returns the year and quarter of the recession bottom as a string value in a format such as 2005Q3:</p>
 
 ```
@@ -54,7 +55,7 @@ def get_recession_bottom():
     return recission_bottom_quarter['Qaurters']
 get_recession_bottom()
 ```
-
+<p style="text-align: justify;font-family: none;">The results show that the recession bottom was reached in 2009Q2</p>
 ## The t-test
 
 <p style="text-align: justify;font-family: none;">First, we calculate the decline (or growth) in housing prices between the recession start and recession bottom. Then we run a t-test to determine whether such price declines in university towns are statistically significantly different from the declines in non-university towns. The t-test returns whether the null hypothesis (that the two groups are the same) is rejected as well as the p-value of the confidence.</p>
