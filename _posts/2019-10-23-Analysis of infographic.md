@@ -1,8 +1,8 @@
 ---
-title: "Analysis of an Infographic using Alberto Cairo's principles"
+title: "Analysis of an Info-graphic using Alberto Cairo's principles"
 date: 2019-10-22
 tags: [Data Science Projects]
-excerpt: "Projects, Data Analysis, Data Science"
+excerpt: "Data Analysis, Info-graphic, Data Science"
 ---
 <p style="text-align: justify;font-family: none;">Alberto Cairo’s work entitled “Reflections on the Challenges and Pitfalls of Evidence-Driven Visual Communication” presents three ways graphics can mislead the reader:</p>
 <p style="text-align: justify;font-family: none;">•	Hiding relevant data to highlight what benefits us: “cherry-picked” statistics, e.g. show the average to hide that sales were negative in a certain moment.</p>
