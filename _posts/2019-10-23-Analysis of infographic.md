@@ -5,14 +5,16 @@ tags: [Data Science Projects]
 excerpt: "Data Analysis, Data Visualization, Data Science"
 ---
 <p style="text-align: justify;font-family: none;">Alberto Cairo’s work entitled “Reflections on the Challenges and Pitfalls of Evidence-Driven Visual Communication” presents three ways graphics can mislead the reader:</p>
-<p style="text-align: justify;font-family: none;">•Hiding relevant data to highlight what benefits us: “cherry-picked” statistics, e.g. show the average to hide that sales were negative in a certain moment.</p>
-<p style="text-align: justify;font-family: none;">•Displaying too much data to obscure reality: extreme and unnecessary detail, e.g. showing details that would be better explored with interactive tools, not on a printed page.</p>
-<p style="text-align: justify;font-family: none;">•Using graphic forms in inappropriate ways: distorting the data, e.g. truncate Y-axis, hide where X-axis begins, inconsistent intervals in one of the axis, etc.</p>
+<p style="text-align: justify;font-family: none;">• Hiding relevant data to highlight what benefits us: “cherry-picked” statistics, e.g. show the average to hide that sales were negative in a certain moment.<br\>
+• Displaying too much data to obscure reality: extreme and unnecessary detail, e.g. showing details that would be better explored with interactive tools, not on a printed page.<br\>
+• Using graphic forms in inappropriate ways: distorting the data, e.g. truncate Y-axis, hide where X-axis begins, inconsistent intervals in one of the axis, etc.<br\>
+</p>
 <p style="text-align: justify;font-family: none;">I’m using these guidelines to analyze and detect issues in my own visual graphics. With examples, the author shows that these mistakes do mislead audiences, and creators of data visuals should aim to eliminate or, at least, minimize them.</p>
 <p style="text-align: justify;font-family: none;">Inspired by this work, I selected an infographic, published at <a href="https://slge.org/resources/infographic-state-and-local-government-compensation">Center for State and Local Government Excellence</a>, to analyze it according to Cairo’s mechanisms. This infographic shows visualizations of trends in state and local government employee compensation from 2006 to 2016. Areas of focus include total compensation, compensation breakouts by component, and comparisons to the private sector. Key findings include:</p>
-<p style="text-align: justify;font-family: none;">•Wages and salaries as a portion of total compensation has been declining (from 67 to 63 percent), as health insurance and defined benefit retirement costs have risen. A fourth component of total compensation — other benefits — has stayed relatively unchanged at 15 to 16 percent.</p>
-<p style="text-align: justify;font-family: none;">•While there has been volatility in individual components of compensation, total compensation has stayed fairly consistent, averaging about a 2 percent increase in employer costs per year.</p>
-<p style="text-align: justify;font-family: none;">•The costs of both health benefit and defined benefit retirement have increased significantly since 2006.</p>
+<p style="text-align: justify;font-family: none;">• Wages and salaries as a portion of total compensation has been declining (from 67 to 63 percent), as health insurance and defined benefit retirement costs have risen. A fourth component of total compensation — other benefits — has stayed relatively unchanged at 15 to 16 percent.<br\>
+• While there has been volatility in individual components of compensation, total compensation has stayed fairly consistent, averaging about a 2 percent increase in employer costs per year.<br\>
+• The costs of both health benefit and defined benefit retirement have increased significantly since 2006.<br\>
+</p>
 <img src="{{site.url}}{{site.baseurl}}/images/InfoGraphic.jpg" alt=""> 
 <p style="text-align: justify;font-family: none;">The components that I’ve found misleading in the visual are organized by the mechanisms presented by Alberto Cairo’s work:</p>
 ### Hiding Relevant Data to Highlight What Benefits Us:
