@@ -141,7 +141,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/sonu.virendra123"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github-dark"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/veerendrababum"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
