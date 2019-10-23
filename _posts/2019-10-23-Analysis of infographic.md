@@ -1,7 +1,7 @@
 ---
-title:"Analysis of infographic"
+title: "Analysis of infographic"
 date: 2019-10-22
-tags: [Projects, Data Cleaning, Data Analysis]
+tags: [projects, Data Cleaning, Data Analysis]
 excerpt: "Projects, Data Analysis, Data Science"
 ---
 
