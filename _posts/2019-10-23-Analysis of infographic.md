@@ -19,17 +19,19 @@ excerpt: "Data Analysis, Data Visualization, Data Science"
 <p style="text-align: justify;font-family: none;">The visual doesn’t show the data on employees’ pay rate based on experience/age. For an example, consider if a number of highly experience people retire and the government hires a large number of low-experience people with low wages. In this scenario, the average salary rate should be effected with this factor and affect the compensation results between 2006 to 2016. If the visual also showed a bar graph for the employees wage rate based on experience/age and number of employees working in each age group/experience range, the decoder could better compare these consumptions.</p>
 ### Displaying Too Much Data to Obscure Reality:
 <p style="text-align: justify;font-family: none;">There are eight data visuals presented</p>
-<p style="text-align: justify;font-family: none;">1.	Share of total compensation</p>
-<p style="text-align: justify;font-family: none;">2.	Total compensation</p>
-<p style="text-align: justify;font-family: none;">3.	Compensation breakout</p>
-<p style="text-align: justify;font-family: none;">4.	Total compensation</p>
-<p style="text-align: justify;font-family: none;">5.	Percentage with at least a Bachelor’s degree</p>
-<p style="text-align: justify;font-family: none;">6.	Total expenditures per hour worked</p>
-<p style="text-align: justify;font-family: none;">7.	Comparisons to private sector</p>
-<p style="text-align: justify;font-family: none;">8.	Compensation and college Education</p>
-<p style="text-align: justify;font-family: none;">Showing these eight data visuals in one infographic is misleading because it can confuse the decoder with unclear links between them. What is the relationship between COMPENSATION AND COLLEGE EDUCATION and SHARE OF TOTAL COMPENSATION? Is the data from the same source? In the COMPENSATION AND COLLEGE EDUCATION, there is an element for “Private Sector” but there is no similar figure available in the chart SHARE OF TOTAL COMPENSATION.</p>
+<p style="text-align: justify;font-family: none;">
+1.	Share of total compensation
+2.	Total compensation
+3.	Compensation breakouts
+4.	Total compensation
+5.	Percentage with at least a Bachelor’s degree
+6.	Total expenditures per hour worked
+7.	Comparisons to private sector
+8.	Compensation and college Education
+</p>
+<p style="text-align: justify;font-family: none;">Showing these eight data visuals in one infographic is misleading because it can confuse the decoder with unclear links between them. What is the relationship between Compensation And College Education and Share Of Total Compensation? Is the data from the same source? In the Compensation And College Education, there is an element for “Private Sector” but there is no similar figure available in the chart Share Of Total Compensation.</p>
 
 ### Using graphic forms in inappropriate ways (Distorting the Data):
-<p style="text-align: justify;font-family: none;">For instance, SHARE OF TOTAL COMPENSATION and TOTAL COMPENSATION graphs are related to each other and sharing the same information. However, the bar color for “Health Insurance” is  colored blue in SHARE OF TOTAL COMPENSATION and but its yellow in TOTAL COMPENSATION. It would be made clearer to the decoder by choosing the same bar color to represent the same element in both SHARE OF TOTAL COMPENSATION and TOTAL COMPENSATION graph.</p>
+<p style="text-align: justify;font-family: none;">For instance, Share Of Total Compensation and Total Compensation graphs are related to each other and sharing the same information. However, the bar color for “Health Insurance” is  colored blue in Share Of Total Compensation and but its yellow in Total Compensation. It would be made clear to the decoder by choosing the same bar color to represent the same element in both Share Of Total Compensation and Total Compensation graph.</p>
 ### Conclusion
 <p style="text-align: justify;font-family: none;">From my experience, I am supportive of the possibility that photos merit a thousand words. Embellishments have been valuable in my day by day work with business procedures and insights diagrams with incredible outcomes.Connecting back to Cairo's work, my perspective is that the advantages of embellishments will be more powerful if they are accurate to inform their audiences.</p>
