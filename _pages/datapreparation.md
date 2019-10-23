@@ -7,6 +7,9 @@ author_profile: true
 
 <p style="text-align: justify;font-family: none;">This section describes clearing and processing of the data collected for testing a hypothesis whether university towns have their housing prices less effected by recessions.</p>
 
+<p style="text-align: justify;font-family: none;">Data acquisition is described in the <a href="https://veerendrababum.github.io/2019-10-22-Are/">previous section</a>.</p>
+<p style="text-align: justify;font-family: none;">Analysis of the data is described in the <a href="https://veerendrababum.github.io/Analysis/#">next section</a>.</p>
+
 ## Cleaning and Processing of the University Town Data
 
 <p style="text-align: justify;font-family: none;">The list of university towns includes entries of both university towns and states in which these towns are located in a single column. State names should be removed from that column and then added as the second column to a data frame with two columns corresponding to university towns and states they are in. The format of the DataFrame is: DataFrame( [ [“Michigan”, “Ann Arbor”], [“Michigan”, “Yipsilanti”] ], columns=[“State”, “RegionName”] )</p>
