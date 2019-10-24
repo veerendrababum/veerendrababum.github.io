@@ -3,7 +3,7 @@ permalink: /about/
 author_profile: true
 ---
 <p style="text-align: justify;font-family: none;">Veerendra Babu Muthakana is working as Senior Payment Analyst in UL LLC. He is more passionate to implement payment solutions and also solve business problems using data.</p> 
-image: "/images/about-me.jpg"
+<img src="{{site.url}}{{site.baseurl}}/images/IMG_4665.jpeg" alt=""> 
 **Education**
 
 <p style="text-align: justify;font-family: none;">His life is like running water and it always float in quite different directions by following few turns. He had <strong>bachelor’s</strong> in computer science from <strong>Acharya Nagarjuna University</strong> and to feed his hunger for learning, he did <strong>Master's</strong> in Computer Science from <strong>Texas A&M University</strong>.</p> 
@@ -12,7 +12,7 @@ image: "/images/about-me.jpg"
 
 <p style="text-align: justify;font-family: none;">After his studies he decided to take an opportunity as <strong>Programmer Analyst</strong> and most of his work is engaged in the development of secure payment channel and this exposure to payments domain changed his life. Later he was more interested towards payments and financial industry this made him to accept <strong>Payment Analyst</strong> opportunity in UL LLC and this position helped him to understand all key roles in the payments, rules and regulations to build a EMV supporting payment platforms. Later in the following year UL LLC promoted him as <strong>Senior Payment Analyst</strong> and this opportunity helps him to widen his skills by providing consulting services to the clients to build secure payment channels and also gave him a change to use his Data Analytical skills to automate the existing repetitive process.</p>
 
-**What I know**
+**Technical Skills**
 
 <p style="text-align: justify;font-family: none;">Data Analysis, Machine Learning Algorithms, Predictive Modeling, Data Queries and Interpretation, Python, R, SQL, Transaction Processing, ISO & PCI standards, NFC & EMV, Tokenization, Card management and authorization, Research , Reports and Forecasts.</p>
 
