@@ -1,14 +1,12 @@
 ---
 permalink: /about/
 author_profile: true
-header: 
-  image: "/images/about-me.jpg"
 ---
 <p style="text-align: justify;font-family: none;">Veerendra Babu Muthakana is working as Senior Payment Analyst in UL LLC. He is more passionate to implement payment solutions and also solve business problems using data.</p> 
-
+image: "/images/about-me.jpg"
 **Education**
 
-<p style="text-align: justify;font-family: none;">His life is like running water and it always float in quite different directions by following few turns. He had his <strong>bachelor’s</strong> in computer science from <strong>Acharya Nagarjuna University</strong> and to feed his hunger for learning, he did <strong>Master's</strong> in Computer Science from <strong>Texas A&M University</strong>.</p> 
+<p style="text-align: justify;font-family: none;">His life is like running water and it always float in quite different directions by following few turns. He had <strong>bachelor’s</strong> in computer science from <strong>Acharya Nagarjuna University</strong> and to feed his hunger for learning, he did <strong>Master's</strong> in Computer Science from <strong>Texas A&M University</strong>.</p> 
 
 **Professional Experience**
 
