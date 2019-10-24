@@ -2,7 +2,7 @@
 permalink: /about/
 author_profile: true
 ---
-    <img src="{{site.url}}{{site.baseurl}}/images/IMG_4661_Veeru.jpeg" alt="">
+<img src="{{site.url}}{{site.baseurl}}/images/IMG-2301.jpg" alt="">
 <p style="text-align: justify;font-family: none;">Veerendra Babu M is working as Senior Payment Analyst in UL LLC. He is more passionate to implement payment solutions and also solve business problems using data.</p> 
 
 **Education**
