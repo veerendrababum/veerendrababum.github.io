@@ -4,9 +4,17 @@ author_profile: true
 header: 
   image: "/images/about-me.jpg"
 ---
-<p style="text-align: justify;font-family: none;">Veerendra is a Senior Payment Analyst having 4 years of experience in IT industry as domain expert in payment transactions and underlying technologies by keeping fully updated with the latest trends and developments in the payment industry. IBM Certified Data Scientist with a demonstrated ability to deliver valuable insights via data analytics and advanced data-driven methods.</p>
+<p style="text-align: justify;font-family: none;">Veerendra Babu Muthakana is working as Senior Payment Analyst in UL LLC. He is more passionate to implement payment solutions and also solve business problems using data.</p> 
 
-**Expertise**
+**Education**
+
+<p style="text-align: justify;font-family: none;">His life is like running water and it always float in quite different directions by following few turns. He had his *bachelor’s* in computer science from *Acharya Nagarjuna University* and to feed his hunger for learning, he did *Master's* in Computer Science from Texas A&M University.</p> 
+
+**Professional Experience**
+
+<p style="text-align: justify;font-family: none;">After his studies he decided to take an opportunity as *Programmer Analyst* and most of his work is engaged in the development of secure payment channel and this exposure to payments domain changed his life. Later he was more interested towards payments and financial industry this made him to accept *Payment Analyst* opportunity in UL LLC and this position helped him to understand all key roles in the payments, rules and regulations to build a EMV supporting payment platforms. Later in the following year UL LLC promoted him as *Senior Payment Analyst* and this opportunity helps him to widen my skills by providing consulting services to the clients to build secure payment channels and also gave him a change to use his Data Analytical skills to automate the existing repetitive process.</p>
+
+**What I know**
 
 <p style="text-align: justify;font-family: none;">Data Analysis, Machine Learning Algorithms, Predictive Modeling, Data Queries and Interpretation, Python, R, SQL, Transaction Processing, ISO & PCI standards, NFC & EMV, Tokenization, Card management and authorization, Research , Reports and Forecasts.</p>
 
