@@ -8,11 +8,11 @@ header:
 
 **Education**
 
-<p style="text-align: justify;font-family: none;">His life is like running water and it always float in quite different directions by following few turns. He had his *bachelor’s* in computer science from *Acharya Nagarjuna University* and to feed his hunger for learning, he did *Master's* in Computer Science from Texas A&M University.</p> 
+<p style="text-align: justify;font-family: none;">His life is like running water and it always float in quite different directions by following few turns. He had his <strong>bachelor’s</strong> in computer science from <strong>Acharya Nagarjuna University</strong> and to feed his hunger for learning, he did <strong>Master's</strong> in Computer Science from <strong>Texas A&M University</strong>.</p> 
 
 **Professional Experience**
 
-<p style="text-align: justify;font-family: none;">After his studies he decided to take an opportunity as *Programmer Analyst* and most of his work is engaged in the development of secure payment channel and this exposure to payments domain changed his life. Later he was more interested towards payments and financial industry this made him to accept *Payment Analyst* opportunity in UL LLC and this position helped him to understand all key roles in the payments, rules and regulations to build a EMV supporting payment platforms. Later in the following year UL LLC promoted him as *Senior Payment Analyst* and this opportunity helps him to widen my skills by providing consulting services to the clients to build secure payment channels and also gave him a change to use his Data Analytical skills to automate the existing repetitive process.</p>
+<p style="text-align: justify;font-family: none;">After his studies he decided to take an opportunity as <strong>Programmer Analyst</strong> and most of his work is engaged in the development of secure payment channel and this exposure to payments domain changed his life. Later he was more interested towards payments and financial industry this made him to accept <strong>Payment Analyst</strong> opportunity in UL LLC and this position helped him to understand all key roles in the payments, rules and regulations to build a EMV supporting payment platforms. Later in the following year UL LLC promoted him as <strong>Senior Payment Analyst</strong> and this opportunity helps him to widen his skills by providing consulting services to the clients to build secure payment channels and also gave him a change to use his Data Analytical skills to automate the existing repetitive process.</p>
 
 **What I know**
 
