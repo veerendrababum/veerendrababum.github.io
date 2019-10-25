@@ -3,7 +3,7 @@ permalink: /about/
 author_profile: true
 ---
 <img src="{{site.url}}{{site.baseurl}}/images/IMG-2301.jpg" alt="">
-<p style="text-align: justify;font-family: none;">Veerendra Babu M is working as Senior Payment Analyst in UL LLC. He is more passionate to implement payment solutions and also solve business problems using data.</p> 
+<p style="text-align: justify;font-family: none;">Veerendra Babu M is working as Senior Payment Analyst in UL LLC. He is more passionate to implement payment solutions and also to solve business problems using data.</p> 
 
 **Education**
 
@@ -11,7 +11,7 @@ author_profile: true
 
 **Professional Experience**
 
-<p style="text-align: justify;font-family: none;">After his studies he decided to take an opportunity as <strong>Programmer Analyst</strong> and most of his work is engaged in the development of secure payment channel and this exposure to payments domain changed his life. Later he was more interested towards payments and financial industry this made him to accept <strong>Payment Analyst</strong> opportunity in UL LLC and this position helped him to understand all key roles in the payments, rules and regulations to build a EMV supporting payment platforms. Later in the following year UL LLC promoted him as <strong>Senior Payment Analyst</strong> and this opportunity helps him to widen his skills by providing consulting services to the clients to build secure payment channels and also gave him a change to use his Data Analytical skills to automate the existing repetitive process.</p>
+<p style="text-align: justify;font-family: none;">After his studies he decided to take an opportunity as <strong>Programmer Analyst</strong> and most of his work is engaged in the development of secure payment channel and this exposure to payments domain changed his life. Later he was more interested towards payments and financial industry this made him to accept <strong>Payment Analyst</strong> opportunity in UL LLC and this position helped him to understand all key roles in the payments, rules and regulations to build a EMV supporting payment platforms. Later in the following year UL LLC promoted him as <strong>Senior Payment Analyst</strong> and this opportunity helped him to widen his skills by providing consulting services to the clients to build secure payment channels and also gave him a change to use his Data Analytical skills to automate the existing repetitive process.</p>
 
 **Technical Skills**
 
